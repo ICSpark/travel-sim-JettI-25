@@ -9,7 +9,7 @@
 
 body {
     background-image: url(assets/portal-background.jpeg);
-
+    background-size: cover;
 }
 
 #header {
