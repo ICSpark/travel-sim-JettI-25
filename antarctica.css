@@ -8,8 +8,10 @@
 }
 
 body {
-    background-image: url(assets/portal-background.jpeg);
+    background-image: url(assets/antarctica.jpeg);
     background-size: cover;
+    height: 100vh;
+    width: 100vw;
 }
 
 #header {
